@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,SubCategory,Brand,Cost,SellingPrice
+P0001,Audio 0001,Electronics,Audio,UrbanNest,11.81,19.78
+P0002,Footwear 0002,Fashion,Footwear,UrbanNest,32.11,44.91
+P0003,Outdoor 0003,Sports,Outdoor,ActiveCore,34.06,68.49
+P0004,Kitchen 0004,Home,Kitchen,UrbanNest,44.11,104.92
+P0005,Decor 0005,Home,Decor,ActiveCore,23.07,33.25
+P0006,Audio 0006,Electronics,Audio,EuroStyle,17.35,37.76
+P0007,Personal Care 0007,Beauty,Personal Care,NovaTech,21.46,31.55
+P0008,Decor 0008,Home,Decor,ActiveCore,47.91,83.42
+P0009,Storage 0009,Home,Storage,ActiveCore,21.58,45.56
+P0010,Accessories 0010,Fashion,Accessories,NordicPeak,23.06,48.13
+P0011,Clothing 0011,Fashion,Clothing,Luma,53.56,92.64
+P0012,Fitness 0012,Sports,Fitness,NordicPeak,98.42,149.49
+P0013,Decor 0013,Home,Decor,NovaTech,14.36,21.65
+P0014,Smart Devices 0014,Electronics,Smart Devices,EuroStyle,21.73,44.21
+P0015,Outdoor 0015,Sports,Outdoor,UrbanNest,158.51,250.29
+P0016,Clothing 0016,Fashion,Clothing,AlpineWorks,54.75,97.1
+P0017,Smart Devices 0017,Electronics,Smart Devices,VitaHome,18.25,30.11
+P0018,Storage 0018,Home,Storage,VitaHome,10.89,23.73
+P0019,Computing 0019,Electronics,Computing,ActiveCore,19.33,35.12
+P0020,Footwear 0020,Sports,Footwear,Luma,10.26,22.45
+P0021,Audio 0021,Electronics,Audio,VitaHome,29.4,51.51
+P0022,Personal Care 0022,Beauty,Personal Care,EuroStyle,7.07,16.12
+P0023,Accessories 0023,Fashion,Accessories,UrbanNest,22.9,49.77
+P0024,Computing 0024,Electronics,Computing,Luma,34.78,67.2
+P0025,Haircare 0025,Beauty,Haircare,NordicPeak,8.16,14.24
+P0026,Accessories 0026,Fashion,Accessories,NovaTech,10.06,22.15
+P0027,Personal Care 0027,Beauty,Personal Care,NovaTech,239.41,350.16
+P0028,Smart Devices 0028,Electronics,Smart Devices,UrbanNest,38.71,76.8
+P0029,Footwear 0029,Fashion,Footwear,Luma,47.06,79.07
+P0030,Smart Devices 0030,Electronics,Smart Devices,EuroStyle,17.45,37.72
+P0031,Footwear 0031,Sports,Footwear,UrbanNest,36.0,56.11
+P0032,Computing 0032,Electronics,Computing,EuroStyle,71.64,123.11
+P0033,Footwear 0033,Fashion,Footwear,NordicPeak,16.51,23.57
+P0034,Audio 0034,Electronics,Audio,ActiveCore,18.29,29.21
+P0035,Clothing 0035,Fashion,Clothing,NovaTech,34.82,48.74
+P0036,Storage 0036,Home,Storage,ActiveCore,19.63,29.58
+P0037,Audio 0037,Electronics,Audio,ActiveCore,16.39,28.3
+P0038,Footwear 0038,Sports,Footwear,VitaHome,171.15,351.06
+P0039,Computing 0039,Electronics,Computing,EuroStyle,60.16,115.22
+P0040,Audio 0040,Electronics,Audio,NordicPeak,30.63,57.5
+P0041,Decor 0041,Home,Decor,AlpineWorks,59.22,85.34
+P0042,Skincare 0042,Beauty,Skincare,UrbanNest,8.33,16.76
+P0043,Footwear 0043,Fashion,Footwear,EuroStyle,46.56,73.14
+P0044,Kitchen 0044,Home,Kitchen,UrbanNest,15.17,25.44
+P0045,Storage 0045,Home,Storage,UrbanNest,34.74,73.67
+P0046,Kitchen 0046,Home,Kitchen,NovaTech,12.41,24.8
+P0047,Footwear 0047,Fashion,Footwear,VitaHome,39.4,77.99
+P0048,Fitness 0048,Sports,Fitness,UrbanNest,38.16,80.54
+P0049,Footwear 0049,Sports,Footwear,Luma,33.8,51.58
+P0050,Kitchen 0050,Home,Kitchen,AlpineWorks,27.05,52.62
+P0051,Computing 0051,Electronics,Computing,ActiveCore,69.23,119.33
+P0052,Storage 0052,Home,Storage,ActiveCore,41.92,65.39
+P0053,Bags 0053,Fashion,Bags,ActiveCore,48.6,68.39
+P0054,Decor 0054,Home,Decor,NovaTech,35.55,51.29
+P0055,Team Sports 0055,Sports,Team Sports,UrbanNest,10.26,21.22
+P0056,Decor 0056,Home,Decor,AlpineWorks,102.29,148.63
+P0057,Kitchen 0057,Home,Kitchen,EuroStyle,50.91,75.55
+P0058,Clothing 0058,Fashion,Clothing,NordicPeak,14.69,34.24
+P0059,Skincare 0059,Beauty,Skincare,AlpineWorks,34.75,50.7
+P0060,Kitchen 0060,Home,Kitchen,Luma,33.2,57.2
+P0061,Accessories 0061,Electronics,Accessories,EuroStyle,7.93,16.6
+P0062,Footwear 0062,Fashion,Footwear,EuroStyle,66.99,93.22
+P0063,Bags 0063,Fashion,Bags,EuroStyle,112.32,218.7
+P0064,Outdoor 0064,Sports,Outdoor,NordicPeak,41.57,87.27
+P0065,Footwear 0065,Sports,Footwear,UrbanNest,9.74,20.63
+P0066,Decor 0066,Home,Decor,UrbanNest,11.99,20.74
+P0067,Accessories 0067,Fashion,Accessories,Luma,14.77,31.26
+P0068,Makeup 0068,Beauty,Makeup,ActiveCore,82.61,143.44
+P0069,Decor 0069,Home,Decor,UrbanNest,82.51,128.69
+P0070,Audio 0070,Electronics,Audio,VitaHome,11.13,15.79
+P0071,Accessories 0071,Electronics,Accessories,AlpineWorks,25.02,47.18
+P0072,Accessories 0072,Electronics,Accessories,ActiveCore,25.83,36.24
+P0073,Fitness 0073,Sports,Fitness,NordicPeak,29.58,41.27
+P0074,Accessories 0074,Fashion,Accessories,NovaTech,7.19,12.05
+P0075,Kitchen 0075,Home,Kitchen,NordicPeak,27.86,54.54
+P0076,Bags 0076,Fashion,Bags,Luma,19.28,28.53
+P0077,Audio 0077,Electronics,Audio,Luma,18.28,41.94
+P0078,Personal Care 0078,Beauty,Personal Care,VitaHome,33.36,60.42
+P0079,Accessories 0079,Electronics,Accessories,NovaTech,54.75,89.74
+P0080,Footwear 0080,Fashion,Footwear,EuroStyle,9.24,12.93
+P0081,Accessories 0081,Fashion,Accessories,UrbanNest,12.11,19.26
+P0082,Outdoor 0082,Sports,Outdoor,NovaTech,34.25,69.99
+P0083,Accessories 0083,Electronics,Accessories,UrbanNest,30.87,45.67
+P0084,Outdoor 0084,Sports,Outdoor,Luma,14.3,23.17
+P0085,Smart Devices 0085,Electronics,Smart Devices,NordicPeak,27.69,40.76
+P0086,Decor 0086,Home,Decor,UrbanNest,41.24,65.59
+P0087,Smart Devices 0087,Electronics,Smart Devices,ActiveCore,40.65,77.53
+P0088,Accessories 0088,Electronics,Accessories,VitaHome,10.5,23.08
+P0089,Footwear 0089,Sports,Footwear,ActiveCore,30.22,48.15
+P0090,Storage 0090,Home,Storage,ActiveCore,17.01,35.36
+P0091,Clothing 0091,Fashion,Clothing,UrbanNest,93.65,213.02
+P0092,Computing 0092,Electronics,Computing,VitaHome,12.53,24.67
+P0093,Furniture 0093,Home,Furniture,AlpineWorks,17.26,33.5
+P0094,Footwear 0094,Sports,Footwear,NovaTech,32.08,44.7
+P0095,Smart Devices 0095,Electronics,Smart Devices,AlpineWorks,28.33,48.09
+P0096,Clothing 0096,Fashion,Clothing,NordicPeak,17.19,23.97
+P0097,Smart Devices 0097,Electronics,Smart Devices,ActiveCore,60.3,92.52
+P0098,Smart Devices 0098,Electronics,Smart Devices,ActiveCore,34.09,59.98
+P0099,Accessories 0099,Fashion,Accessories,Luma,107.72,213.19
+P0100,Clothing 0100,Fashion,Clothing,ActiveCore,38.82,79.67
+P0101,Team Sports 0101,Sports,Team Sports,VitaHome,31.36,63.96
+P0102,Clothing 0102,Fashion,Clothing,VitaHome,15.98,23.56
+P0103,Haircare 0103,Beauty,Haircare,EuroStyle,28.57,53.01
+P0104,Audio 0104,Electronics,Audio,EuroStyle,50.13,90.27
+P0105,Kitchen 0105,Home,Kitchen,UrbanNest,38.26,63.23
+P0106,Decor 0106,Home,Decor,EuroStyle,45.71,104.65
+P0107,Smart Devices 0107,Electronics,Smart Devices,AlpineWorks,43.58,77.49
+P0108,Audio 0108,Electronics,Audio,ActiveCore,41.14,96.85
+P0109,Storage 0109,Home,Storage,VitaHome,17.35,26.96
+P0110,Smart Devices 0110,Electronics,Smart Devices,VitaHome,27.64,64.76
+P0111,Bags 0111,Fashion,Bags,UrbanNest,21.08,33.38
+P0112,Fitness 0112,Sports,Fitness,UrbanNest,20.06,41.77
+P0113,Skincare 0113,Beauty,Skincare,ActiveCore,7.27,10.95
+P0114,Smart Devices 0114,Electronics,Smart Devices,NovaTech,98.88,192.03
+P0115,Outdoor 0115,Sports,Outdoor,UrbanNest,10.73,15.52
+P0116,Accessories 0116,Fashion,Accessories,Luma,23.51,36.64
+P0117,Fitness 0117,Sports,Fitness,ActiveCore,21.2,43.9
+P0118,Makeup 0118,Beauty,Makeup,EuroStyle,97.88,142.81
+P0119,Computing 0119,Electronics,Computing,NovaTech,11.32,26.56
+P0120,Footwear 0120,Sports,Footwear,VitaHome,16.94,27.94
+P0121,Decor 0121,Home,Decor,AlpineWorks,72.62,108.0
+P0122,Skincare 0122,Beauty,Skincare,Luma,17.01,37.07
+P0123,Skincare 0123,Beauty,Skincare,Luma,8.9,20.53
+P0124,Smart Devices 0124,Electronics,Smart Devices,EuroStyle,22.6,32.92
+P0125,Kitchen 0125,Home,Kitchen,EuroStyle,56.92,111.85
+P0126,Accessories 0126,Electronics,Accessories,VitaHome,50.56,81.61
+P0127,Clothing 0127,Fashion,Clothing,ActiveCore,54.54,81.25
+P0128,Personal Care 0128,Beauty,Personal Care,EuroStyle,48.09,106.14
+P0129,Haircare 0129,Beauty,Haircare,AlpineWorks,48.41,90.79
+P0130,Furniture 0130,Home,Furniture,ActiveCore,33.75,52.89
+P0131,Furniture 0131,Home,Furniture,NovaTech,54.65,123.36
+P0132,Outdoor 0132,Sports,Outdoor,NovaTech,22.04,34.19
+P0133,Haircare 0133,Beauty,Haircare,EuroStyle,62.07,90.72
+P0134,Computing 0134,Electronics,Computing,UrbanNest,14.71,22.34
+P0135,Computing 0135,Electronics,Computing,UrbanNest,40.38,82.11
+P0136,Furniture 0136,Home,Furniture,VitaHome,66.75,99.39
+P0137,Kitchen 0137,Home,Kitchen,EuroStyle,27.5,43.85
+P0138,Furniture 0138,Home,Furniture,UrbanNest,140.19,217.64
+P0139,Decor 0139,Home,Decor,AlpineWorks,28.32,43.96
+P0140,Decor 0140,Home,Decor,ActiveCore,49.32,88.86
+P0141,Bags 0141,Fashion,Bags,NovaTech,132.03,191.26
+P0142,Accessories 0142,Fashion,Accessories,AlpineWorks,69.53,152.08
+P0143,Accessories 0143,Fashion,Accessories,EuroStyle,75.36,106.5
+P0144,Furniture 0144,Home,Furniture,UrbanNest,12.53,29.68
+P0145,Audio 0145,Electronics,Audio,EuroStyle,27.26,41.9
+P0146,Bags 0146,Fashion,Bags,AlpineWorks,9.97,20.96
+P0147,Haircare 0147,Beauty,Haircare,NovaTech,20.43,46.5
+P0148,Footwear 0148,Sports,Footwear,ActiveCore,59.06,103.65
+P0149,Computing 0149,Electronics,Computing,NordicPeak,41.07,71.53
+P0150,Smart Devices 0150,Electronics,Smart Devices,EuroStyle,14.17,22.83
+P0151,Footwear 0151,Fashion,Footwear,Luma,126.4,211.24
+P0152,Footwear 0152,Sports,Footwear,EuroStyle,22.58,52.59
+P0153,Accessories 0153,Electronics,Accessories,EuroStyle,20.71,43.03
+P0154,Accessories 0154,Electronics,Accessories,EuroStyle,32.1,50.57
+P0155,Storage 0155,Home,Storage,NovaTech,94.24,134.1
+P0156,Furniture 0156,Home,Furniture,ActiveCore,21.67,33.34
+P0157,Footwear 0157,Fashion,Footwear,NovaTech,61.19,85.5
+P0158,Haircare 0158,Beauty,Haircare,Luma,48.16,105.31
+P0159,Computing 0159,Electronics,Computing,AlpineWorks,136.42,192.81
+P0160,Audio 0160,Electronics,Audio,Luma,9.82,18.46
+P0161,Footwear 0161,Sports,Footwear,NordicPeak,23.46,39.89
+P0162,Fitness 0162,Sports,Fitness,EuroStyle,24.72,34.67
+P0163,Audio 0163,Electronics,Audio,AlpineWorks,26.55,47.91
+P0164,Clothing 0164,Fashion,Clothing,NovaTech,26.06,50.66
+P0165,Personal Care 0165,Beauty,Personal Care,UrbanNest,33.41,50.83
+P0166,Audio 0166,Electronics,Audio,VitaHome,57.63,91.27
+P0167,Bags 0167,Fashion,Bags,ActiveCore,18.51,43.39
+P0168,Team Sports 0168,Sports,Team Sports,NovaTech,42.78,75.65
+P0169,Smart Devices 0169,Electronics,Smart Devices,NovaTech,64.22,92.14
+P0170,Furniture 0170,Home,Furniture,UrbanNest,50.61,86.65
+P0171,Footwear 0171,Sports,Footwear,UrbanNest,36.59,60.57
+P0172,Fitness 0172,Sports,Fitness,AlpineWorks,56.18,99.19
+P0173,Smart Devices 0173,Electronics,Smart Devices,NordicPeak,17.18,28.84
+P0174,Fitness 0174,Sports,Fitness,NordicPeak,17.97,35.32
+P0175,Fitness 0175,Sports,Fitness,ActiveCore,18.33,38.1
+P0176,Footwear 0176,Sports,Footwear,NovaTech,43.28,80.5
+P0177,Accessories 0177,Fashion,Accessories,UrbanNest,35.72,72.94
+P0178,Outdoor 0178,Sports,Outdoor,NovaTech,84.29,121.59
+P0179,Skincare 0179,Beauty,Skincare,NordicPeak,14.55,31.31
+P0180,Accessories 0180,Fashion,Accessories,NordicPeak,114.62,232.97
+P0181,Team Sports 0181,Sports,Team Sports,EuroStyle,37.82,57.58
+P0182,Team Sports 0182,Sports,Team Sports,NordicPeak,16.81,37.3
+P0183,Furniture 0183,Home,Furniture,VitaHome,79.49,120.61
+P0184,Footwear 0184,Fashion,Footwear,EuroStyle,53.13,89.52
+P0185,Furniture 0185,Home,Furniture,NovaTech,29.03,52.01
+P0186,Accessories 0186,Electronics,Accessories,AlpineWorks,28.7,42.13
+P0187,Audio 0187,Electronics,Audio,NordicPeak,22.52,41.74
+P0188,Personal Care 0188,Beauty,Personal Care,ActiveCore,32.63,64.99
+P0189,Smart Devices 0189,Electronics,Smart Devices,EuroStyle,33.01,56.63
+P0190,Footwear 0190,Fashion,Footwear,AlpineWorks,11.52,19.62
+P0191,Clothing 0191,Fashion,Clothing,AlpineWorks,19.88,43.52
+P0192,Footwear 0192,Sports,Footwear,NovaTech,61.77,94.22
+P0193,Footwear 0193,Fashion,Footwear,UrbanNest,19.03,35.75
+P0194,Smart Devices 0194,Electronics,Smart Devices,Luma,13.1,28.62
+P0195,Personal Care 0195,Beauty,Personal Care,ActiveCore,39.86,88.62
+P0196,Outdoor 0196,Sports,Outdoor,AlpineWorks,114.09,193.52
+P0197,Footwear 0197,Fashion,Footwear,NovaTech,44.06,82.8
+P0198,Computing 0198,Electronics,Computing,UrbanNest,8.69,16.86
+P0199,Storage 0199,Home,Storage,Luma,28.95,51.89
+P0200,Accessories 0200,Electronics,Accessories,VitaHome,75.94,115.47
+P0201,Clothing 0201,Fashion,Clothing,AlpineWorks,11.95,25.37
+P0202,Computing 0202,Electronics,Computing,NovaTech,66.9,146.83
+P0203,Smart Devices 0203,Electronics,Smart Devices,NovaTech,63.43,93.11
+P0204,Computing 0204,Electronics,Computing,EuroStyle,49.5,74.61
+P0205,Outdoor 0205,Sports,Outdoor,NovaTech,5.79,12.35
+P0206,Team Sports 0206,Sports,Team Sports,AlpineWorks,77.54,131.96
+P0207,Footwear 0207,Sports,Footwear,AlpineWorks,32.78,56.21
+P0208,Furniture 0208,Home,Furniture,NordicPeak,20.24,31.03
+P0209,Personal Care 0209,Beauty,Personal Care,AlpineWorks,18.51,35.68
+P0210,Makeup 0210,Beauty,Makeup,Luma,13.14,29.91
+P0211,Storage 0211,Home,Storage,UrbanNest,35.14,73.81
+P0212,Outdoor 0212,Sports,Outdoor,NordicPeak,29.02,60.0
+P0213,Team Sports 0213,Sports,Team Sports,NovaTech,22.03,39.38
+P0214,Computing 0214,Electronics,Computing,NordicPeak,51.1,89.48
+P0215,Accessories 0215,Fashion,Accessories,UrbanNest,27.89,57.91
+P0216,Accessories 0216,Fashion,Accessories,NordicPeak,22.16,42.98
+P0217,Team Sports 0217,Sports,Team Sports,UrbanNest,6.48,9.89
+P0218,Storage 0218,Home,Storage,Luma,102.82,237.45
+P0219,Fitness 0219,Sports,Fitness,Luma,228.58,355.5
+P0220,Smart Devices 0220,Electronics,Smart Devices,NovaTech,23.7,33.22
+P0221,Footwear 0221,Fashion,Footwear,NordicPeak,14.89,22.96
+P0222,Footwear 0222,Fashion,Footwear,ActiveCore,29.26,41.83
+P0223,Fitness 0223,Sports,Fitness,AlpineWorks,25.37,50.84
+P0224,Smart Devices 0224,Electronics,Smart Devices,AlpineWorks,30.3,52.66
+P0225,Furniture 0225,Home,Furniture,UrbanNest,48.87,89.77
+P0226,Storage 0226,Home,Storage,UrbanNest,15.77,31.41
+P0227,Accessories 0227,Fashion,Accessories,UrbanNest,34.28,79.31
+P0228,Computing 0228,Electronics,Computing,VitaHome,17.99,27.77
+P0229,Footwear 0229,Sports,Footwear,NovaTech,20.52,32.2
+P0230,Decor 0230,Home,Decor,VitaHome,126.56,214.59
+P0231,Accessories 0231,Electronics,Accessories,UrbanNest,244.01,342.62
+P0232,Smart Devices 0232,Electronics,Smart Devices,AlpineWorks,24.54,36.08
+P0233,Fitness 0233,Sports,Fitness,ActiveCore,21.08,35.81
+P0234,Haircare 0234,Beauty,Haircare,ActiveCore,52.26,75.07
+P0235,Bags 0235,Fashion,Bags,AlpineWorks,5.64,9.59
+P0236,Outdoor 0236,Sports,Outdoor,UrbanNest,143.08,213.15
+P0237,Footwear 0237,Sports,Footwear,EuroStyle,8.03,14.08
+P0238,Fitness 0238,Sports,Fitness,VitaHome,16.2,24.47
+P0239,Bags 0239,Fashion,Bags,UrbanNest,18.53,33.44
+P0240,Furniture 0240,Home,Furniture,ActiveCore,90.47,152.96
+P0241,Team Sports 0241,Sports,Team Sports,EuroStyle,70.26,146.76
+P0242,Computing 0242,Electronics,Computing,NordicPeak,31.13,51.42
+P0243,Bags 0243,Fashion,Bags,NordicPeak,39.12,59.33
+P0244,Makeup 0244,Beauty,Makeup,AlpineWorks,20.49,30.53
+P0245,Footwear 0245,Sports,Footwear,NordicPeak,111.13,170.79
+P0246,Accessories 0246,Electronics,Accessories,ActiveCore,11.91,28.13
+P0247,Clothing 0247,Fashion,Clothing,NordicPeak,36.81,52.6
+P0248,Skincare 0248,Beauty,Skincare,ActiveCore,16.21,37.05
+P0249,Haircare 0249,Beauty,Haircare,ActiveCore,86.85,137.26
+P0250,Haircare 0250,Beauty,Haircare,NordicPeak,36.14,54.21
+P0251,Fitness 0251,Sports,Fitness,NovaTech,11.16,17.16
+P0252,Personal Care 0252,Beauty,Personal Care,NovaTech,16.95,26.01
+P0253,Audio 0253,Electronics,Audio,Luma,11.35,23.31
+P0254,Accessories 0254,Electronics,Accessories,VitaHome,5.31,11.9
+P0255,Kitchen 0255,Home,Kitchen,UrbanNest,28.02,49.86
+P0256,Smart Devices 0256,Electronics,Smart Devices,Luma,71.4,117.15
+P0257,Audio 0257,Electronics,Audio,EuroStyle,25.52,38.24
+P0258,Outdoor 0258,Sports,Outdoor,Luma,18.92,35.99
+P0259,Bags 0259,Fashion,Bags,AlpineWorks,15.03,22.53
+P0260,Audio 0260,Electronics,Audio,VitaHome,57.94,101.56
+P0261,Furniture 0261,Home,Furniture,VitaHome,61.92,94.41
+P0262,Accessories 0262,Fashion,Accessories,NovaTech,24.62,50.44
+P0263,Accessories 0263,Electronics,Accessories,NovaTech,37.91,58.37
+P0264,Makeup 0264,Beauty,Makeup,VitaHome,7.22,14.93
+P0265,Team Sports 0265,Sports,Team Sports,AlpineWorks,20.13,45.31
+P0266,Team Sports 0266,Sports,Team Sports,VitaHome,40.15,61.22
+P0267,Smart Devices 0267,Electronics,Smart Devices,NovaTech,39.2,59.9
+P0268,Computing 0268,Electronics,Computing,AlpineWorks,21.48,47.41
+P0269,Kitchen 0269,Home,Kitchen,ActiveCore,34.12,62.29
+P0270,Accessories 0270,Electronics,Accessories,UrbanNest,41.72,97.18
+P0271,Computing 0271,Electronics,Computing,UrbanNest,33.56,52.72
+P0272,Personal Care 0272,Beauty,Personal Care,Luma,23.96,36.65
+P0273,Accessories 0273,Electronics,Accessories,VitaHome,64.05,103.08
+P0274,Decor 0274,Home,Decor,NordicPeak,90.92,157.3
+P0275,Footwear 0275,Fashion,Footwear,ActiveCore,20.94,45.44
+P0276,Storage 0276,Home,Storage,AlpineWorks,51.67,72.14
+P0277,Furniture 0277,Home,Furniture,AlpineWorks,35.06,70.56
+P0278,Decor 0278,Home,Decor,UrbanNest,20.86,31.06
+P0279,Bags 0279,Fashion,Bags,NovaTech,38.98,88.01
+P0280,Fitness 0280,Sports,Fitness,AlpineWorks,9.66,20.23
+P0281,Furniture 0281,Home,Furniture,VitaHome,18.72,29.9
+P0282,Outdoor 0282,Sports,Outdoor,AlpineWorks,20.7,47.85
+P0283,Accessories 0283,Electronics,Accessories,NovaTech,47.09,111.55
+P0284,Outdoor 0284,Sports,Outdoor,UrbanNest,55.19,91.27
+P0285,Footwear 0285,Fashion,Footwear,AlpineWorks,33.21,53.38
+P0286,Computing 0286,Electronics,Computing,AlpineWorks,92.54,146.25
+P0287,Outdoor 0287,Sports,Outdoor,NovaTech,18.91,27.84
+P0288,Team Sports 0288,Sports,Team Sports,NordicPeak,25.59,49.68
+P0289,Decor 0289,Home,Decor,NovaTech,45.62,102.28
+P0290,Computing 0290,Electronics,Computing,VitaHome,16.95,31.42
+P0291,Makeup 0291,Beauty,Makeup,NovaTech,35.33,71.19
+P0292,Storage 0292,Home,Storage,NordicPeak,71.12,100.53
+P0293,Furniture 0293,Home,Furniture,Luma,8.05,16.76
+P0294,Accessories 0294,Fashion,Accessories,AlpineWorks,13.74,21.81
+P0295,Kitchen 0295,Home,Kitchen,NordicPeak,34.61,49.68
+P0296,Footwear 0296,Fashion,Footwear,EuroStyle,6.35,10.23
+P0297,Fitness 0297,Sports,Fitness,ActiveCore,13.68,31.1
+P0298,Accessories 0298,Electronics,Accessories,Luma,56.25,80.6
+P0299,Furniture 0299,Home,Furniture,NordicPeak,50.85,109.5
+P0300,Computing 0300,Electronics,Computing,UrbanNest,36.62,76.31
+P0301,Kitchen 0301,Home,Kitchen,AlpineWorks,9.69,15.17
+P0302,Makeup 0302,Beauty,Makeup,EuroStyle,14.88,26.2
+P0303,Footwear 0303,Sports,Footwear,EuroStyle,28.36,43.4
+P0304,Fitness 0304,Sports,Fitness,Luma,29.9,63.71
+P0305,Clothing 0305,Fashion,Clothing,NordicPeak,54.02,79.8
+P0306,Audio 0306,Electronics,Audio,ActiveCore,43.44,84.96
+P0307,Footwear 0307,Fashion,Footwear,ActiveCore,48.0,83.27
+P0308,Outdoor 0308,Sports,Outdoor,EuroStyle,50.93,112.16
+P0309,Footwear 0309,Sports,Footwear,VitaHome,27.94,53.19
+P0310,Storage 0310,Home,Storage,AlpineWorks,21.89,41.45
+P0311,Smart Devices 0311,Electronics,Smart Devices,AlpineWorks,27.88,39.27
+P0312,Outdoor 0312,Sports,Outdoor,NovaTech,18.04,26.95
+P0313,Fitness 0313,Sports,Fitness,Luma,84.06,192.2
+P0314,Decor 0314,Home,Decor,NovaTech,37.91,74.96
+P0315,Accessories 0315,Electronics,Accessories,VitaHome,15.52,32.19
+P0316,Kitchen 0316,Home,Kitchen,Luma,11.9,23.07
+P0317,Kitchen 0317,Home,Kitchen,UrbanNest,27.19,64.14
+P0318,Footwear 0318,Fashion,Footwear,VitaHome,55.3,84.48
+P0319,Outdoor 0319,Sports,Outdoor,NordicPeak,38.41,83.22
+P0320,Computing 0320,Electronics,Computing,EuroStyle,48.9,101.7
+P0321,Makeup 0321,Beauty,Makeup,ActiveCore,37.27,60.43
+P0322,Decor 0322,Home,Decor,Luma,57.67,94.67
+P0323,Personal Care 0323,Beauty,Personal Care,NovaTech,34.32,51.39
+P0324,Fitness 0324,Sports,Fitness,AlpineWorks,35.69,77.39
+P0325,Fitness 0325,Sports,Fitness,VitaHome,17.1,35.18
+P0326,Decor 0326,Home,Decor,ActiveCore,22.55,33.02
+P0327,Haircare 0327,Beauty,Haircare,EuroStyle,9.96,16.07
+P0328,Haircare 0328,Beauty,Haircare,NordicPeak,19.85,44.73
+P0329,Storage 0329,Home,Storage,EuroStyle,20.13,44.91
+P0330,Footwear 0330,Fashion,Footwear,EuroStyle,15.34,26.45
+P0331,Computing 0331,Electronics,Computing,UrbanNest,49.6,76.87
+P0332,Team Sports 0332,Sports,Team Sports,NordicPeak,35.73,58.29
+P0333,Team Sports 0333,Sports,Team Sports,EuroStyle,91.69,147.08
+P0334,Skincare 0334,Beauty,Skincare,AlpineWorks,50.16,84.79
+P0335,Furniture 0335,Home,Furniture,AlpineWorks,18.03,26.35
+P0336,Footwear 0336,Fashion,Footwear,UrbanNest,121.18,175.86
+P0337,Audio 0337,Electronics,Audio,NovaTech,21.06,35.01
+P0338,Computing 0338,Electronics,Computing,NordicPeak,18.45,28.86
+P0339,Kitchen 0339,Home,Kitchen,Luma,128.59,230.15
+P0340,Clothing 0340,Fashion,Clothing,EuroStyle,40.2,80.27
+P0341,Makeup 0341,Beauty,Makeup,UrbanNest,23.11,37.83
+P0342,Smart Devices 0342,Electronics,Smart Devices,ActiveCore,78.31,117.84
+P0343,Accessories 0343,Electronics,Accessories,AlpineWorks,46.42,93.07
+P0344,Kitchen 0344,Home,Kitchen,VitaHome,91.28,150.19
+P0345,Storage 0345,Home,Storage,EuroStyle,14.26,23.5
+P0346,Haircare 0346,Beauty,Haircare,AlpineWorks,24.31,34.95
+P0347,Accessories 0347,Electronics,Accessories,VitaHome,26.39,40.74
+P0348,Bags 0348,Fashion,Bags,EuroStyle,75.84,114.32
+P0349,Fitness 0349,Sports,Fitness,NordicPeak,17.95,30.35
+P0350,Audio 0350,Electronics,Audio,Luma,9.08,14.23
+P0351,Audio 0351,Electronics,Audio,AlpineWorks,4.94,10.01
+P0352,Computing 0352,Electronics,Computing,UrbanNest,20.17,33.97
+P0353,Accessories 0353,Electronics,Accessories,UrbanNest,48.58,78.52
+P0354,Skincare 0354,Beauty,Skincare,ActiveCore,37.03,55.26
+P0355,Footwear 0355,Fashion,Footwear,UrbanNest,34.35,73.14
+P0356,Skincare 0356,Beauty,Skincare,VitaHome,39.83,76.88
+P0357,Audio 0357,Electronics,Audio,UrbanNest,20.08,30.54
+P0358,Outdoor 0358,Sports,Outdoor,NovaTech,28.25,51.34
+P0359,Skincare 0359,Beauty,Skincare,VitaHome,58.55,103.56
+P0360,Footwear 0360,Sports,Footwear,EuroStyle,40.32,66.56
+P0361,Computing 0361,Electronics,Computing,VitaHome,20.42,32.0
+P0362,Smart Devices 0362,Electronics,Smart Devices,EuroStyle,25.35,50.05
+P0363,Kitchen 0363,Home,Kitchen,EuroStyle,20.67,30.43
+P0364,Furniture 0364,Home,Furniture,NovaTech,41.98,79.32
+P0365,Haircare 0365,Beauty,Haircare,ActiveCore,36.7,73.65
+P0366,Accessories 0366,Fashion,Accessories,VitaHome,67.07,106.49
+P0367,Accessories 0367,Electronics,Accessories,UrbanNest,29.39,55.67
+P0368,Computing 0368,Electronics,Computing,Luma,7.44,13.01
+P0369,Clothing 0369,Fashion,Clothing,NordicPeak,60.25,116.07
+P0370,Storage 0370,Home,Storage,UrbanNest,30.59,45.25
+P0371,Smart Devices 0371,Electronics,Smart Devices,NovaTech,40.01,70.21
+P0372,Haircare 0372,Beauty,Haircare,Luma,22.72,51.68
+P0373,Footwear 0373,Fashion,Footwear,NordicPeak,24.61,56.32
+P0374,Computing 0374,Electronics,Computing,NovaTech,32.85,62.04
+P0375,Outdoor 0375,Sports,Outdoor,AlpineWorks,7.29,13.45
+P0376,Storage 0376,Home,Storage,ActiveCore,18.29,42.41
+P0377,Computing 0377,Electronics,Computing,EuroStyle,51.03,75.52
+P0378,Outdoor 0378,Sports,Outdoor,Luma,36.76,64.27
+P0379,Decor 0379,Home,Decor,Luma,24.65,42.19
+P0380,Footwear 0380,Sports,Footwear,EuroStyle,23.13,37.57
+P0381,Storage 0381,Home,Storage,NovaTech,22.6,46.58
+P0382,Footwear 0382,Fashion,Footwear,Luma,28.53,49.45
+P0383,Decor 0383,Home,Decor,NordicPeak,72.61,149.13
+P0384,Footwear 0384,Fashion,Footwear,AlpineWorks,19.26,35.37
+P0385,Team Sports 0385,Sports,Team Sports,Luma,152.43,250.68
+P0386,Accessories 0386,Electronics,Accessories,AlpineWorks,29.23,59.57
+P0387,Decor 0387,Home,Decor,UrbanNest,82.63,120.61
+P0388,Kitchen 0388,Home,Kitchen,UrbanNest,47.93,94.33
+P0389,Decor 0389,Home,Decor,NordicPeak,31.24,61.12
+P0390,Audio 0390,Electronics,Audio,ActiveCore,44.3,63.62
+P0391,Decor 0391,Home,Decor,ActiveCore,56.77,105.76
+P0392,Audio 0392,Electronics,Audio,UrbanNest,76.69,166.37
+P0393,Storage 0393,Home,Storage,EuroStyle,18.15,33.11
+P0394,Storage 0394,Home,Storage,NovaTech,14.52,27.84
+P0395,Footwear 0395,Fashion,Footwear,EuroStyle,27.97,49.2
+P0396,Accessories 0396,Fashion,Accessories,ActiveCore,27.31,45.23
+P0397,Footwear 0397,Fashion,Footwear,AlpineWorks,44.95,86.62
+P0398,Audio 0398,Electronics,Audio,AlpineWorks,36.4,57.47
+P0399,Team Sports 0399,Sports,Team Sports,NovaTech,24.91,48.76
+P0400,Bags 0400,Fashion,Bags,NordicPeak,16.84,25.07
+P0401,Fitness 0401,Sports,Fitness,AlpineWorks,69.58,98.19
+P0402,Makeup 0402,Beauty,Makeup,NordicPeak,38.27,90.24
+P0403,Personal Care 0403,Beauty,Personal Care,EuroStyle,17.36,38.15
+P0404,Footwear 0404,Fashion,Footwear,VitaHome,22.18,38.71
+P0405,Makeup 0405,Beauty,Makeup,VitaHome,58.95,97.14
+P0406,Accessories 0406,Fashion,Accessories,UrbanNest,44.38,64.03
+P0407,Fitness 0407,Sports,Fitness,NovaTech,23.63,38.8
+P0408,Bags 0408,Fashion,Bags,UrbanNest,93.61,137.8
+P0409,Furniture 0409,Home,Furniture,ActiveCore,12.58,21.82
+P0410,Audio 0410,Electronics,Audio,ActiveCore,62.65,99.93
+P0411,Audio 0411,Electronics,Audio,NordicPeak,236.06,338.65
+P0412,Accessories 0412,Fashion,Accessories,VitaHome,8.06,12.93
+P0413,Decor 0413,Home,Decor,NordicPeak,12.47,22.07
+P0414,Storage 0414,Home,Storage,Luma,116.19,194.35
+P0415,Outdoor 0415,Sports,Outdoor,EuroStyle,32.3,58.82
+P0416,Accessories 0416,Electronics,Accessories,EuroStyle,30.13,64.8
+P0417,Fitness 0417,Sports,Fitness,NordicPeak,57.09,87.69
+P0418,Clothing 0418,Fashion,Clothing,EuroStyle,9.48,17.41
+P0419,Furniture 0419,Home,Furniture,Luma,50.33,112.23
+P0420,Outdoor 0420,Sports,Outdoor,NovaTech,15.55,24.64
+P0421,Computing 0421,Electronics,Computing,AlpineWorks,66.65,102.66
+P0422,Accessories 0422,Fashion,Accessories,NovaTech,5.45,12.06
+P0423,Footwear 0423,Sports,Footwear,ActiveCore,43.73,78.54
+P0424,Footwear 0424,Sports,Footwear,Luma,35.4,62.72
+P0425,Smart Devices 0425,Electronics,Smart Devices,NordicPeak,36.57,74.57
+P0426,Skincare 0426,Beauty,Skincare,VitaHome,120.81,183.12
+P0427,Furniture 0427,Home,Furniture,AlpineWorks,26.98,46.58
+P0428,Haircare 0428,Beauty,Haircare,NordicPeak,117.06,197.83
+P0429,Furniture 0429,Home,Furniture,VitaHome,9.92,18.81
+P0430,Skincare 0430,Beauty,Skincare,NovaTech,140.15,283.91
+P0431,Footwear 0431,Sports,Footwear,VitaHome,22.36,33.84
+P0432,Accessories 0432,Electronics,Accessories,ActiveCore,53.8,92.78
+P0433,Makeup 0433,Beauty,Makeup,ActiveCore,43.63,88.64
+P0434,Furniture 0434,Home,Furniture,NordicPeak,23.45,42.81
+P0435,Accessories 0435,Fashion,Accessories,EuroStyle,70.73,120.54
+P0436,Footwear 0436,Sports,Footwear,NordicPeak,41.0,69.9
+P0437,Accessories 0437,Electronics,Accessories,NovaTech,49.27,83.89
+P0438,Smart Devices 0438,Electronics,Smart Devices,VitaHome,17.05,36.21
+P0439,Computing 0439,Electronics,Computing,EuroStyle,49.07,83.68
+P0440,Team Sports 0440,Sports,Team Sports,AlpineWorks,16.54,31.58
+P0441,Outdoor 0441,Sports,Outdoor,NovaTech,23.43,39.7
+P0442,Audio 0442,Electronics,Audio,UrbanNest,16.65,26.85
+P0443,Computing 0443,Electronics,Computing,UrbanNest,50.38,103.0
+P0444,Storage 0444,Home,Storage,ActiveCore,24.21,53.07
+P0445,Accessories 0445,Electronics,Accessories,Luma,16.57,27.56
+P0446,Fitness 0446,Sports,Fitness,ActiveCore,71.93,114.56
+P0447,Storage 0447,Home,Storage,Luma,8.25,12.14
+P0448,Kitchen 0448,Home,Kitchen,NovaTech,15.83,32.06
+P0449,Smart Devices 0449,Electronics,Smart Devices,ActiveCore,18.79,41.09
+P0450,Accessories 0450,Electronics,Accessories,NovaTech,24.3,34.13
+P0451,Fitness 0451,Sports,Fitness,ActiveCore,50.99,118.04
+P0452,Personal Care 0452,Beauty,Personal Care,Luma,65.07,119.42
+P0453,Team Sports 0453,Sports,Team Sports,Luma,50.69,89.24
+P0454,Makeup 0454,Beauty,Makeup,UrbanNest,13.27,20.96
+P0455,Smart Devices 0455,Electronics,Smart Devices,ActiveCore,25.51,38.46
+P0456,Smart Devices 0456,Electronics,Smart Devices,UrbanNest,37.78,64.33
+P0457,Bags 0457,Fashion,Bags,VitaHome,42.42,98.96
+P0458,Furniture 0458,Home,Furniture,UrbanNest,33.31,46.3
+P0459,Footwear 0459,Fashion,Footwear,NovaTech,41.73,68.19
+P0460,Decor 0460,Home,Decor,VitaHome,62.68,93.62
+P0461,Computing 0461,Electronics,Computing,EuroStyle,60.19,110.56
+P0462,Furniture 0462,Home,Furniture,NordicPeak,32.34,74.24
+P0463,Footwear 0463,Sports,Footwear,VitaHome,18.02,40.51
+P0464,Fitness 0464,Sports,Fitness,VitaHome,32.18,49.41
+P0465,Computing 0465,Electronics,Computing,NordicPeak,18.77,38.8
+P0466,Makeup 0466,Beauty,Makeup,ActiveCore,70.86,104.68
+P0467,Outdoor 0467,Sports,Outdoor,EuroStyle,24.53,49.49
+P0468,Outdoor 0468,Sports,Outdoor,NordicPeak,127.83,256.81
+P0469,Kitchen 0469,Home,Kitchen,VitaHome,20.46,45.54
+P0470,Team Sports 0470,Sports,Team Sports,EuroStyle,11.17,24.18
+P0471,Decor 0471,Home,Decor,EuroStyle,182.89,399.19
+P0472,Kitchen 0472,Home,Kitchen,NordicPeak,49.88,115.29
+P0473,Decor 0473,Home,Decor,NordicPeak,11.85,24.13
+P0474,Audio 0474,Electronics,Audio,Luma,10.8,25.3
+P0475,Bags 0475,Fashion,Bags,ActiveCore,170.44,270.08
+P0476,Footwear 0476,Fashion,Footwear,NordicPeak,16.24,26.85
+P0477,Footwear 0477,Fashion,Footwear,AlpineWorks,25.48,54.02
+P0478,Decor 0478,Home,Decor,NordicPeak,54.51,80.32
+P0479,Accessories 0479,Electronics,Accessories,NovaTech,66.07,130.65
+P0480,Personal Care 0480,Beauty,Personal Care,ActiveCore,149.73,257.85
+P0481,Bags 0481,Fashion,Bags,ActiveCore,63.75,96.11
+P0482,Bags 0482,Fashion,Bags,NovaTech,119.15,224.49
+P0483,Outdoor 0483,Sports,Outdoor,AlpineWorks,64.39,130.0
+P0484,Decor 0484,Home,Decor,NovaTech,89.03,131.27
+P0485,Smart Devices 0485,Electronics,Smart Devices,Luma,40.56,91.73
+P0486,Smart Devices 0486,Electronics,Smart Devices,Luma,20.51,33.35
+P0487,Outdoor 0487,Sports,Outdoor,Luma,149.43,222.5
+P0488,Audio 0488,Electronics,Audio,NordicPeak,27.37,43.23
+P0489,Decor 0489,Home,Decor,AlpineWorks,59.16,111.14
+P0490,Bags 0490,Fashion,Bags,VitaHome,9.7,13.76
+P0491,Decor 0491,Home,Decor,UrbanNest,42.63,92.52
+P0492,Smart Devices 0492,Electronics,Smart Devices,VitaHome,104.07,164.29
+P0493,Clothing 0493,Fashion,Clothing,UrbanNest,14.91,23.47
+P0494,Team Sports 0494,Sports,Team Sports,EuroStyle,47.63,78.9
+P0495,Footwear 0495,Sports,Footwear,ActiveCore,8.17,14.44
+P0496,Smart Devices 0496,Electronics,Smart Devices,NordicPeak,40.2,56.96
+P0497,Kitchen 0497,Home,Kitchen,EuroStyle,75.21,134.33
+P0498,Storage 0498,Home,Storage,Luma,19.48,37.46
+P0499,Skincare 0499,Beauty,Skincare,UrbanNest,45.7,79.55
+P0500,Smart Devices 0500,Electronics,Smart Devices,NovaTech,49.42,74.85
+P0501,Accessories 0501,Fashion,Accessories,Luma,17.22,36.73
+P0502,Smart Devices 0502,Electronics,Smart Devices,AlpineWorks,20.67,38.91
+P0503,Haircare 0503,Beauty,Haircare,ActiveCore,52.62,89.24
+P0504,Computing 0504,Electronics,Computing,UrbanNest,72.06,107.09
+P0505,Furniture 0505,Home,Furniture,EuroStyle,9.5,17.59
+P0506,Footwear 0506,Fashion,Footwear,NovaTech,178.92,305.77
+P0507,Decor 0507,Home,Decor,AlpineWorks,18.93,41.45
+P0508,Team Sports 0508,Sports,Team Sports,VitaHome,39.89,88.99
+P0509,Team Sports 0509,Sports,Team Sports,NovaTech,41.24,85.2
+P0510,Footwear 0510,Sports,Footwear,Luma,39.99,63.91
+P0511,Bags 0511,Fashion,Bags,UrbanNest,19.02,39.32
+P0512,Decor 0512,Home,Decor,Luma,26.25,38.42
+P0513,Accessories 0513,Fashion,Accessories,NovaTech,29.18,42.31
+P0514,Personal Care 0514,Beauty,Personal Care,Luma,17.89,35.8
+P0515,Team Sports 0515,Sports,Team Sports,NovaTech,6.18,13.69
+P0516,Outdoor 0516,Sports,Outdoor,Luma,52.38,96.4
+P0517,Haircare 0517,Beauty,Haircare,EuroStyle,19.92,30.27
+P0518,Smart Devices 0518,Electronics,Smart Devices,NovaTech,200.32,442.83
+P0519,Decor 0519,Home,Decor,AlpineWorks,39.59,88.02
+P0520,Accessories 0520,Electronics,Accessories,UrbanNest,28.03,56.8
+P0521,Smart Devices 0521,Electronics,Smart Devices,NordicPeak,55.27,88.04
+P0522,Footwear 0522,Fashion,Footwear,NovaTech,13.05,24.52
+P0523,Kitchen 0523,Home,Kitchen,VitaHome,157.41,245.57
+P0524,Smart Devices 0524,Electronics,Smart Devices,Luma,24.15,44.61
+P0525,Kitchen 0525,Home,Kitchen,ActiveCore,72.21,162.75
+P0526,Storage 0526,Home,Storage,UrbanNest,59.96,83.33
+P0527,Accessories 0527,Electronics,Accessories,NovaTech,139.05,222.72
+P0528,Footwear 0528,Sports,Footwear,NovaTech,42.35,69.5
+P0529,Computing 0529,Electronics,Computing,VitaHome,17.56,30.91
+P0530,Smart Devices 0530,Electronics,Smart Devices,EuroStyle,37.29,83.8
+P0531,Clothing 0531,Fashion,Clothing,UrbanNest,45.24,63.23
+P0532,Kitchen 0532,Home,Kitchen,AlpineWorks,40.08,71.6
+P0533,Outdoor 0533,Sports,Outdoor,NordicPeak,31.11,71.94
+P0534,Computing 0534,Electronics,Computing,NovaTech,11.0,21.03
+P0535,Fitness 0535,Sports,Fitness,UrbanNest,40.45,94.1
+P0536,Accessories 0536,Electronics,Accessories,UrbanNest,8.36,14.62
+P0537,Audio 0537,Electronics,Audio,NovaTech,55.55,85.96
+P0538,Outdoor 0538,Sports,Outdoor,NordicPeak,58.36,82.53
+P0539,Accessories 0539,Fashion,Accessories,ActiveCore,84.77,125.95
+P0540,Bags 0540,Fashion,Bags,Luma,28.06,55.96
+P0541,Footwear 0541,Fashion,Footwear,NovaTech,9.71,18.53
+P0542,Furniture 0542,Home,Furniture,Luma,28.01,48.64
+P0543,Footwear 0543,Sports,Footwear,NordicPeak,32.03,51.2
+P0544,Accessories 0544,Electronics,Accessories,Luma,71.33,111.3
+P0545,Footwear 0545,Fashion,Footwear,UrbanNest,129.08,191.27
+P0546,Furniture 0546,Home,Furniture,ActiveCore,72.36,148.46
+P0547,Clothing 0547,Fashion,Clothing,NovaTech,20.98,46.26
+P0548,Fitness 0548,Sports,Fitness,Luma,15.87,33.53
+P0549,Smart Devices 0549,Electronics,Smart Devices,UrbanNest,107.26,152.57
+P0550,Decor 0550,Home,Decor,NovaTech,13.01,28.29
+P0551,Clothing 0551,Fashion,Clothing,NovaTech,14.69,28.49
+P0552,Computing 0552,Electronics,Computing,AlpineWorks,45.56,95.16
+P0553,Audio 0553,Electronics,Audio,EuroStyle,11.69,25.8
+P0554,Computing 0554,Electronics,Computing,NovaTech,22.39,38.73
+P0555,Fitness 0555,Sports,Fitness,VitaHome,35.41,66.34
+P0556,Decor 0556,Home,Decor,NovaTech,57.0,89.34
+P0557,Smart Devices 0557,Electronics,Smart Devices,Luma,43.19,80.31
+P0558,Team Sports 0558,Sports,Team Sports,UrbanNest,25.88,44.11
+P0559,Computing 0559,Electronics,Computing,Luma,20.95,31.45
+P0560,Accessories 0560,Fashion,Accessories,NordicPeak,10.63,18.38
+P0561,Team Sports 0561,Sports,Team Sports,UrbanNest,31.65,57.41
+P0562,Computing 0562,Electronics,Computing,VitaHome,19.43,42.27
+P0563,Clothing 0563,Fashion,Clothing,EuroStyle,139.57,237.44
+P0564,Outdoor 0564,Sports,Outdoor,NovaTech,13.08,29.08
+P0565,Smart Devices 0565,Electronics,Smart Devices,UrbanNest,27.48,60.87
+P0566,Footwear 0566,Fashion,Footwear,VitaHome,16.01,28.83
+P0567,Storage 0567,Home,Storage,NordicPeak,10.87,18.88
+P0568,Footwear 0568,Fashion,Footwear,EuroStyle,40.4,62.73
+P0569,Furniture 0569,Home,Furniture,EuroStyle,11.22,20.14
+P0570,Audio 0570,Electronics,Audio,NovaTech,36.65,60.44
+P0571,Outdoor 0571,Sports,Outdoor,EuroStyle,26.1,37.51
+P0572,Furniture 0572,Home,Furniture,NordicPeak,17.95,25.57
+P0573,Makeup 0573,Beauty,Makeup,ActiveCore,31.34,62.78
+P0574,Clothing 0574,Fashion,Clothing,UrbanNest,44.11,79.21
+P0575,Decor 0575,Home,Decor,EuroStyle,94.4,162.94
+P0576,Accessories 0576,Electronics,Accessories,VitaHome,11.15,20.13
+P0577,Fitness 0577,Sports,Fitness,AlpineWorks,58.27,82.18
+P0578,Team Sports 0578,Sports,Team Sports,ActiveCore,11.59,22.86
+P0579,Footwear 0579,Sports,Footwear,UrbanNest,65.82,114.31
+P0580,Furniture 0580,Home,Furniture,NordicPeak,29.74,64.97
+P0581,Accessories 0581,Electronics,Accessories,Luma,65.69,107.87
+P0582,Footwear 0582,Sports,Footwear,Luma,23.42,45.17
+P0583,Decor 0583,Home,Decor,ActiveCore,92.55,139.88
+P0584,Personal Care 0584,Beauty,Personal Care,ActiveCore,11.79,25.67
+P0585,Footwear 0585,Sports,Footwear,NordicPeak,41.3,60.39
+P0586,Computing 0586,Electronics,Computing,NovaTech,55.14,100.44
+P0587,Furniture 0587,Home,Furniture,VitaHome,60.5,111.58
+P0588,Outdoor 0588,Sports,Outdoor,EuroStyle,15.95,24.57
+P0589,Accessories 0589,Fashion,Accessories,NovaTech,22.17,43.41
+P0590,Kitchen 0590,Home,Kitchen,EuroStyle,20.55,30.35
+P0591,Footwear 0591,Fashion,Footwear,ActiveCore,34.43,68.42
+P0592,Computing 0592,Electronics,Computing,VitaHome,50.65,79.21
+P0593,Decor 0593,Home,Decor,VitaHome,25.98,59.48
+P0594,Team Sports 0594,Sports,Team Sports,UrbanNest,21.6,34.27
+P0595,Smart Devices 0595,Electronics,Smart Devices,NovaTech,52.92,106.09
+P0596,Bags 0596,Fashion,Bags,NovaTech,20.09,31.49
+P0597,Clothing 0597,Fashion,Clothing,NovaTech,11.74,17.58
+P0598,Kitchen 0598,Home,Kitchen,NovaTech,16.11,34.19
+P0599,Personal Care 0599,Beauty,Personal Care,AlpineWorks,15.73,33.46
+P0600,Bags 0600,Fashion,Bags,AlpineWorks,22.23,34.54
+P0601,Footwear 0601,Fashion,Footwear,Luma,30.97,65.76
+P0602,Footwear 0602,Sports,Footwear,VitaHome,12.41,29.15
+P0603,Clothing 0603,Fashion,Clothing,ActiveCore,44.56,101.62
+P0604,Makeup 0604,Beauty,Makeup,Luma,25.76,60.2
+P0605,Accessories 0605,Fashion,Accessories,Luma,30.8,44.5
+P0606,Decor 0606,Home,Decor,NovaTech,54.11,79.63
+P0607,Team Sports 0607,Sports,Team Sports,EuroStyle,16.14,27.52
+P0608,Footwear 0608,Sports,Footwear,Luma,31.66,55.18
+P0609,Fitness 0609,Sports,Fitness,NovaTech,16.5,33.45
+P0610,Bags 0610,Fashion,Bags,AlpineWorks,26.33,46.21
+P0611,Kitchen 0611,Home,Kitchen,ActiveCore,31.74,45.39
+P0612,Kitchen 0612,Home,Kitchen,AlpineWorks,19.61,33.18
+P0613,Computing 0613,Electronics,Computing,NovaTech,12.63,28.89
+P0614,Smart Devices 0614,Electronics,Smart Devices,Luma,22.76,52.8
+P0615,Computing 0615,Electronics,Computing,NovaTech,36.18,53.09
+P0616,Accessories 0616,Electronics,Accessories,EuroStyle,64.88,133.74
+P0617,Accessories 0617,Electronics,Accessories,VitaHome,30.32,71.95
+P0618,Outdoor 0618,Sports,Outdoor,VitaHome,6.55,10.18
+P0619,Accessories 0619,Fashion,Accessories,VitaHome,17.82,26.77
+P0620,Furniture 0620,Home,Furniture,AlpineWorks,27.2,53.77
+P0621,Personal Care 0621,Beauty,Personal Care,ActiveCore,40.69,60.77
+P0622,Team Sports 0622,Sports,Team Sports,NovaTech,28.29,42.78
+P0623,Accessories 0623,Electronics,Accessories,ActiveCore,22.27,39.34
+P0624,Storage 0624,Home,Storage,NordicPeak,38.25,54.52
+P0625,Footwear 0625,Sports,Footwear,NovaTech,93.77,139.25
+P0626,Personal Care 0626,Beauty,Personal Care,AlpineWorks,50.1,116.81
+P0627,Fitness 0627,Sports,Fitness,ActiveCore,40.42,58.59
+P0628,Smart Devices 0628,Electronics,Smart Devices,NordicPeak,40.25,69.11
+P0629,Fitness 0629,Sports,Fitness,NordicPeak,15.42,27.51
+P0630,Fitness 0630,Sports,Fitness,NordicPeak,21.42,30.29
+P0631,Accessories 0631,Fashion,Accessories,EuroStyle,14.29,28.28
+P0632,Computing 0632,Electronics,Computing,ActiveCore,28.31,51.31
+P0633,Bags 0633,Fashion,Bags,NovaTech,5.55,11.69
+P0634,Accessories 0634,Fashion,Accessories,VitaHome,36.16,53.05
+P0635,Bags 0635,Fashion,Bags,NordicPeak,35.9,81.53
+P0636,Furniture 0636,Home,Furniture,EuroStyle,45.47,107.07
+P0637,Footwear 0637,Sports,Footwear,AlpineWorks,22.9,49.19
+P0638,Footwear 0638,Fashion,Footwear,NordicPeak,9.47,15.53
+P0639,Makeup 0639,Beauty,Makeup,VitaHome,13.53,29.72
+P0640,Kitchen 0640,Home,Kitchen,ActiveCore,57.6,82.73
+P0641,Smart Devices 0641,Electronics,Smart Devices,Luma,8.6,13.79
+P0642,Accessories 0642,Fashion,Accessories,NovaTech,30.85,49.37
+P0643,Accessories 0643,Electronics,Accessories,NordicPeak,38.59,54.21
+P0644,Footwear 0644,Sports,Footwear,AlpineWorks,48.32,110.52
+P0645,Bags 0645,Fashion,Bags,AlpineWorks,27.54,44.71
+P0646,Computing 0646,Electronics,Computing,NordicPeak,27.47,39.82
+P0647,Kitchen 0647,Home,Kitchen,NovaTech,5.78,9.55
+P0648,Accessories 0648,Fashion,Accessories,Luma,49.97,89.54
+P0649,Outdoor 0649,Sports,Outdoor,ActiveCore,9.47,22.18
+P0650,Audio 0650,Electronics,Audio,ActiveCore,11.72,24.87
+P0651,Computing 0651,Electronics,Computing,EuroStyle,45.26,65.0
+P0652,Footwear 0652,Sports,Footwear,NordicPeak,12.17,17.06
+P0653,Audio 0653,Electronics,Audio,ActiveCore,72.57,127.83
+P0654,Storage 0654,Home,Storage,AlpineWorks,87.04,126.22
+P0655,Team Sports 0655,Sports,Team Sports,EuroStyle,19.15,33.99
+P0656,Audio 0656,Electronics,Audio,Luma,24.13,51.58
+P0657,Footwear 0657,Fashion,Footwear,NovaTech,5.87,13.18
+P0658,Skincare 0658,Beauty,Skincare,NordicPeak,20.97,31.3
+P0659,Decor 0659,Home,Decor,AlpineWorks,67.8,96.66
+P0660,Computing 0660,Electronics,Computing,EuroStyle,59.15,108.94
+P0661,Smart Devices 0661,Electronics,Smart Devices,UrbanNest,15.07,32.89
+P0662,Fitness 0662,Sports,Fitness,EuroStyle,27.54,40.86
+P0663,Accessories 0663,Electronics,Accessories,AlpineWorks,23.9,45.71
+P0664,Accessories 0664,Fashion,Accessories,AlpineWorks,5.92,10.45
+P0665,Bags 0665,Fashion,Bags,UrbanNest,28.27,39.37
+P0666,Kitchen 0666,Home,Kitchen,Luma,34.71,55.68
+P0667,Bags 0667,Fashion,Bags,UrbanNest,122.01,191.69
+P0668,Accessories 0668,Electronics,Accessories,VitaHome,73.12,144.96
+P0669,Personal Care 0669,Beauty,Personal Care,VitaHome,72.5,145.84
+P0670,Kitchen 0670,Home,Kitchen,ActiveCore,84.21,165.73
+P0671,Makeup 0671,Beauty,Makeup,UrbanNest,68.8,114.78
+P0672,Footwear 0672,Sports,Footwear,NovaTech,25.05,35.72
+P0673,Clothing 0673,Fashion,Clothing,AlpineWorks,20.73,33.14
+P0674,Accessories 0674,Fashion,Accessories,NordicPeak,25.74,50.84
+P0675,Footwear 0675,Fashion,Footwear,NovaTech,13.48,22.01
+P0676,Footwear 0676,Fashion,Footwear,AlpineWorks,80.83,175.07
+P0677,Accessories 0677,Electronics,Accessories,ActiveCore,25.89,47.23
+P0678,Furniture 0678,Home,Furniture,EuroStyle,57.15,83.24
+P0679,Outdoor 0679,Sports,Outdoor,ActiveCore,71.36,144.25
+P0680,Accessories 0680,Fashion,Accessories,UrbanNest,66.14,112.59
+P0681,Decor 0681,Home,Decor,EuroStyle,18.62,42.03
+P0682,Team Sports 0682,Sports,Team Sports,VitaHome,5.03,11.28
+P0683,Furniture 0683,Home,Furniture,NordicPeak,34.73,78.82
+P0684,Bags 0684,Fashion,Bags,ActiveCore,37.57,77.8
+P0685,Accessories 0685,Electronics,Accessories,NovaTech,49.95,89.72
+P0686,Footwear 0686,Fashion,Footwear,EuroStyle,25.18,36.26
+P0687,Clothing 0687,Fashion,Clothing,NordicPeak,10.13,19.31
+P0688,Accessories 0688,Electronics,Accessories,EuroStyle,17.08,28.03
+P0689,Outdoor 0689,Sports,Outdoor,VitaHome,53.26,90.76
+P0690,Smart Devices 0690,Electronics,Smart Devices,AlpineWorks,51.77,111.66
+P0691,Furniture 0691,Home,Furniture,VitaHome,75.75,134.67
+P0692,Bags 0692,Fashion,Bags,EuroStyle,38.27,82.83
+P0693,Bags 0693,Fashion,Bags,Luma,15.96,31.13
+P0694,Furniture 0694,Home,Furniture,VitaHome,29.4,65.31
+P0695,Smart Devices 0695,Electronics,Smart Devices,UrbanNest,13.62,28.08
+P0696,Fitness 0696,Sports,Fitness,UrbanNest,22.39,42.12
+P0697,Smart Devices 0697,Electronics,Smart Devices,AlpineWorks,51.82,85.32
+P0698,Audio 0698,Electronics,Audio,VitaHome,14.18,30.74
+P0699,Kitchen 0699,Home,Kitchen,NovaTech,31.79,53.13
+P0700,Footwear 0700,Sports,Footwear,UrbanNest,84.31,171.09
+P0701,Makeup 0701,Beauty,Makeup,Luma,154.6,351.47
+P0702,Audio 0702,Electronics,Audio,EuroStyle,70.08,100.78
+P0703,Bags 0703,Fashion,Bags,Luma,7.97,18.32
+P0704,Clothing 0704,Fashion,Clothing,UrbanNest,56.49,83.99
+P0705,Computing 0705,Electronics,Computing,VitaHome,28.31,44.52
+P0706,Audio 0706,Electronics,Audio,AlpineWorks,19.4,38.24
+P0707,Personal Care 0707,Beauty,Personal Care,VitaHome,19.82,31.2
+P0708,Audio 0708,Electronics,Audio,Luma,12.4,24.86
+P0709,Audio 0709,Electronics,Audio,VitaHome,57.76,87.76
+P0710,Storage 0710,Home,Storage,NovaTech,46.23,102.7
+P0711,Decor 0711,Home,Decor,VitaHome,41.55,96.7
+P0712,Makeup 0712,Beauty,Makeup,VitaHome,14.5,31.42
+P0713,Clothing 0713,Fashion,Clothing,Luma,25.02,39.36
+P0714,Footwear 0714,Sports,Footwear,AlpineWorks,191.74,269.95
+P0715,Smart Devices 0715,Electronics,Smart Devices,Luma,15.95,25.9
+P0716,Smart Devices 0716,Electronics,Smart Devices,EuroStyle,39.86,58.35
+P0717,Accessories 0717,Electronics,Accessories,UrbanNest,11.46,26.78
+P0718,Smart Devices 0718,Electronics,Smart Devices,EuroStyle,28.64,52.73
+P0719,Haircare 0719,Beauty,Haircare,UrbanNest,16.77,28.29
+P0720,Decor 0720,Home,Decor,UrbanNest,23.91,44.14
+P0721,Accessories 0721,Fashion,Accessories,NordicPeak,62.85,99.08
+P0722,Decor 0722,Home,Decor,Luma,17.07,35.08
+P0723,Team Sports 0723,Sports,Team Sports,VitaHome,44.79,89.79
+P0724,Personal Care 0724,Beauty,Personal Care,ActiveCore,12.17,21.27
+P0725,Team Sports 0725,Sports,Team Sports,AlpineWorks,52.52,84.8
+P0726,Kitchen 0726,Home,Kitchen,NordicPeak,9.24,20.13
+P0727,Furniture 0727,Home,Furniture,VitaHome,19.97,39.15
+P0728,Kitchen 0728,Home,Kitchen,Luma,34.19,67.8
+P0729,Accessories 0729,Fashion,Accessories,EuroStyle,61.17,108.21
+P0730,Furniture 0730,Home,Furniture,EuroStyle,31.03,43.75
+P0731,Smart Devices 0731,Electronics,Smart Devices,NovaTech,25.65,47.73
+P0732,Team Sports 0732,Sports,Team Sports,VitaHome,17.96,26.51
+P0733,Bags 0733,Fashion,Bags,ActiveCore,45.7,84.6
+P0734,Fitness 0734,Sports,Fitness,UrbanNest,76.09,147.15
+P0735,Computing 0735,Electronics,Computing,NordicPeak,9.93,22.2
+P0736,Smart Devices 0736,Electronics,Smart Devices,Luma,21.16,33.42
+P0737,Haircare 0737,Beauty,Haircare,NovaTech,30.31,59.84
+P0738,Computing 0738,Electronics,Computing,ActiveCore,134.63,213.61
+P0739,Outdoor 0739,Sports,Outdoor,NordicPeak,47.3,89.31
+P0740,Kitchen 0740,Home,Kitchen,ActiveCore,12.15,28.61
+P0741,Computing 0741,Electronics,Computing,ActiveCore,11.68,24.98
+P0742,Audio 0742,Electronics,Audio,Luma,47.14,72.16
+P0743,Furniture 0743,Home,Furniture,EuroStyle,16.71,34.45
+P0744,Accessories 0744,Fashion,Accessories,NovaTech,12.32,25.19
+P0745,Team Sports 0745,Sports,Team Sports,AlpineWorks,10.7,20.57
+P0746,Computing 0746,Electronics,Computing,NovaTech,58.31,122.65
+P0747,Clothing 0747,Fashion,Clothing,UrbanNest,18.11,31.14
+P0748,Furniture 0748,Home,Furniture,EuroStyle,6.33,11.03
+P0749,Accessories 0749,Electronics,Accessories,AlpineWorks,13.06,21.43
+P0750,Footwear 0750,Fashion,Footwear,Luma,32.71,46.06
+P0751,Outdoor 0751,Sports,Outdoor,EuroStyle,33.84,74.23
+P0752,Footwear 0752,Fashion,Footwear,UrbanNest,43.59,81.43
+P0753,Storage 0753,Home,Storage,EuroStyle,32.62,57.25
+P0754,Accessories 0754,Fashion,Accessories,VitaHome,72.73,105.22
+P0755,Accessories 0755,Electronics,Accessories,AlpineWorks,79.91,131.05
+P0756,Outdoor 0756,Sports,Outdoor,Luma,54.12,99.01
+P0757,Smart Devices 0757,Electronics,Smart Devices,Luma,80.9,185.79
+P0758,Fitness 0758,Sports,Fitness,NovaTech,62.47,96.51
+P0759,Kitchen 0759,Home,Kitchen,NovaTech,5.51,9.38
+P0760,Audio 0760,Electronics,Audio,VitaHome,62.35,100.1
+P0761,Fitness 0761,Sports,Fitness,NovaTech,27.98,54.3
+P0762,Computing 0762,Electronics,Computing,AlpineWorks,36.01,72.43
+P0763,Outdoor 0763,Sports,Outdoor,VitaHome,42.99,70.46
+P0764,Skincare 0764,Beauty,Skincare,NovaTech,70.68,129.2
+P0765,Makeup 0765,Beauty,Makeup,Luma,18.91,36.0
+P0766,Makeup 0766,Beauty,Makeup,NordicPeak,20.73,42.87
+P0767,Decor 0767,Home,Decor,VitaHome,24.76,45.69
+P0768,Accessories 0768,Fashion,Accessories,NordicPeak,61.81,88.27
+P0769,Audio 0769,Electronics,Audio,NovaTech,53.75,118.71
+P0770,Computing 0770,Electronics,Computing,VitaHome,13.64,29.09
+P0771,Computing 0771,Electronics,Computing,UrbanNest,91.22,151.62
+P0772,Decor 0772,Home,Decor,AlpineWorks,68.01,138.19
+P0773,Computing 0773,Electronics,Computing,VitaHome,28.17,41.33
+P0774,Kitchen 0774,Home,Kitchen,UrbanNest,24.45,36.22
+P0775,Smart Devices 0775,Electronics,Smart Devices,VitaHome,68.69,125.81
+P0776,Computing 0776,Electronics,Computing,ActiveCore,34.01,54.49
+P0777,Makeup 0777,Beauty,Makeup,EuroStyle,15.81,24.21
+P0778,Fitness 0778,Sports,Fitness,VitaHome,24.07,46.36
+P0779,Fitness 0779,Sports,Fitness,UrbanNest,8.63,16.75
+P0780,Decor 0780,Home,Decor,UrbanNest,13.1,31.14
+P0781,Computing 0781,Electronics,Computing,Luma,68.03,138.71
+P0782,Accessories 0782,Fashion,Accessories,UrbanNest,143.6,229.98
+P0783,Furniture 0783,Home,Furniture,ActiveCore,27.38,49.52
+P0784,Clothing 0784,Fashion,Clothing,NovaTech,30.52,50.09
+P0785,Audio 0785,Electronics,Audio,ActiveCore,49.27,101.01
+P0786,Kitchen 0786,Home,Kitchen,EuroStyle,93.69,155.42
+P0787,Smart Devices 0787,Electronics,Smart Devices,Luma,13.58,27.52
+P0788,Outdoor 0788,Sports,Outdoor,EuroStyle,20.55,32.53
+P0789,Storage 0789,Home,Storage,NovaTech,49.01,104.95
+P0790,Kitchen 0790,Home,Kitchen,NordicPeak,20.87,41.17
+P0791,Storage 0791,Home,Storage,ActiveCore,21.01,43.6
+P0792,Accessories 0792,Fashion,Accessories,NordicPeak,4.38,10.24
+P0793,Team Sports 0793,Sports,Team Sports,Luma,62.15,89.6
+P0794,Bags 0794,Fashion,Bags,EuroStyle,20.63,46.61
+P0795,Footwear 0795,Fashion,Footwear,VitaHome,88.22,161.99
+P0796,Footwear 0796,Fashion,Footwear,Luma,19.04,36.18
+P0797,Haircare 0797,Beauty,Haircare,VitaHome,51.97,109.47
+P0798,Fitness 0798,Sports,Fitness,AlpineWorks,36.22,65.47
+P0799,Fitness 0799,Sports,Fitness,NovaTech,16.65,29.16
+P0800,Bags 0800,Fashion,Bags,UrbanNest,20.61,41.23
+P0801,Computing 0801,Electronics,Computing,AlpineWorks,25.91,44.84
+P0802,Computing 0802,Electronics,Computing,ActiveCore,26.56,43.35
+P0803,Smart Devices 0803,Electronics,Smart Devices,Luma,39.79,69.07
+P0804,Computing 0804,Electronics,Computing,NordicPeak,101.77,147.61
+P0805,Smart Devices 0805,Electronics,Smart Devices,EuroStyle,11.62,25.19
+P0806,Team Sports 0806,Sports,Team Sports,NordicPeak,40.61,60.46
+P0807,Accessories 0807,Electronics,Accessories,Luma,17.58,37.91
+P0808,Personal Care 0808,Beauty,Personal Care,ActiveCore,20.1,36.61
+P0809,Computing 0809,Electronics,Computing,EuroStyle,47.36,101.66
+P0810,Audio 0810,Electronics,Audio,NovaTech,73.15,121.64
+P0811,Outdoor 0811,Sports,Outdoor,Luma,14.79,28.25
+P0812,Audio 0812,Electronics,Audio,VitaHome,35.14,63.25
+P0813,Footwear 0813,Sports,Footwear,EuroStyle,18.12,38.62
+P0814,Clothing 0814,Fashion,Clothing,AlpineWorks,18.68,33.23
+P0815,Decor 0815,Home,Decor,Luma,52.49,81.91
+P0816,Storage 0816,Home,Storage,AlpineWorks,69.68,99.49
+P0817,Outdoor 0817,Sports,Outdoor,AlpineWorks,68.64,135.86
+P0818,Clothing 0818,Fashion,Clothing,AlpineWorks,82.1,149.22
+P0819,Decor 0819,Home,Decor,UrbanNest,71.13,108.62
+P0820,Clothing 0820,Fashion,Clothing,NordicPeak,17.13,29.16
+P0821,Accessories 0821,Fashion,Accessories,NovaTech,143.89,224.16
+P0822,Furniture 0822,Home,Furniture,NovaTech,15.9,24.26
+P0823,Kitchen 0823,Home,Kitchen,NovaTech,68.03,106.28
+P0824,Computing 0824,Electronics,Computing,NordicPeak,48.59,68.87
+P0825,Smart Devices 0825,Electronics,Smart Devices,ActiveCore,85.62,133.89
+P0826,Clothing 0826,Fashion,Clothing,Luma,62.15,136.36
+P0827,Team Sports 0827,Sports,Team Sports,EuroStyle,19.06,28.87
+P0828,Kitchen 0828,Home,Kitchen,NovaTech,28.7,64.25
+P0829,Smart Devices 0829,Electronics,Smart Devices,ActiveCore,22.31,41.38
+P0830,Audio 0830,Electronics,Audio,NovaTech,7.16,13.63
+P0831,Skincare 0831,Beauty,Skincare,Luma,15.41,33.0
+P0832,Outdoor 0832,Sports,Outdoor,VitaHome,16.99,37.56
+P0833,Furniture 0833,Home,Furniture,UrbanNest,71.89,141.84
+P0834,Footwear 0834,Fashion,Footwear,Luma,35.58,56.85
+P0835,Accessories 0835,Electronics,Accessories,Luma,77.19,160.22
+P0836,Decor 0836,Home,Decor,VitaHome,81.68,114.87
+P0837,Storage 0837,Home,Storage,NovaTech,29.9,70.94
+P0838,Accessories 0838,Electronics,Accessories,Luma,23.91,40.47
+P0839,Skincare 0839,Beauty,Skincare,NovaTech,25.22,42.92
+P0840,Kitchen 0840,Home,Kitchen,EuroStyle,17.74,35.32
+P0841,Skincare 0841,Beauty,Skincare,NovaTech,91.23,152.4
+P0842,Team Sports 0842,Sports,Team Sports,NovaTech,16.61,28.24
+P0843,Makeup 0843,Beauty,Makeup,NordicPeak,30.22,48.24
+P0844,Smart Devices 0844,Electronics,Smart Devices,UrbanNest,32.83,48.14
+P0845,Haircare 0845,Beauty,Haircare,NordicPeak,134.73,299.3
+P0846,Kitchen 0846,Home,Kitchen,ActiveCore,86.65,129.21
+P0847,Smart Devices 0847,Electronics,Smart Devices,NovaTech,20.42,47.92
+P0848,Footwear 0848,Sports,Footwear,UrbanNest,13.26,30.23
+P0849,Accessories 0849,Fashion,Accessories,VitaHome,20.05,28.96
+P0850,Outdoor 0850,Sports,Outdoor,EuroStyle,88.97,140.84
+P0851,Team Sports 0851,Sports,Team Sports,NordicPeak,23.95,39.09
+P0852,Clothing 0852,Fashion,Clothing,EuroStyle,25.19,43.78
+P0853,Footwear 0853,Sports,Footwear,NovaTech,60.95,93.19
+P0854,Outdoor 0854,Sports,Outdoor,NovaTech,33.67,52.72
+P0855,Furniture 0855,Home,Furniture,Luma,17.81,34.04
+P0856,Accessories 0856,Fashion,Accessories,UrbanNest,35.48,62.4
+P0857,Footwear 0857,Sports,Footwear,VitaHome,59.78,105.87
+P0858,Makeup 0858,Beauty,Makeup,EuroStyle,15.68,28.5
+P0859,Fitness 0859,Sports,Fitness,NovaTech,21.06,33.72
+P0860,Accessories 0860,Fashion,Accessories,EuroStyle,100.32,151.23
+P0861,Haircare 0861,Beauty,Haircare,EuroStyle,40.76,57.68
+P0862,Team Sports 0862,Sports,Team Sports,UrbanNest,17.09,31.43
+P0863,Footwear 0863,Fashion,Footwear,UrbanNest,17.99,28.57
+P0864,Outdoor 0864,Sports,Outdoor,NovaTech,80.11,136.03
+P0865,Clothing 0865,Fashion,Clothing,NovaTech,16.1,33.95
+P0866,Fitness 0866,Sports,Fitness,EuroStyle,63.65,124.4
+P0867,Footwear 0867,Fashion,Footwear,VitaHome,52.12,77.24
+P0868,Accessories 0868,Fashion,Accessories,NordicPeak,25.01,37.76
+P0869,Accessories 0869,Electronics,Accessories,NovaTech,27.85,41.23
+P0870,Audio 0870,Electronics,Audio,EuroStyle,15.75,36.4
+P0871,Smart Devices 0871,Electronics,Smart Devices,VitaHome,41.74,58.22
+P0872,Kitchen 0872,Home,Kitchen,ActiveCore,77.79,132.48
+P0873,Furniture 0873,Home,Furniture,ActiveCore,41.09,71.86
+P0874,Bags 0874,Fashion,Bags,EuroStyle,15.84,24.73
+P0875,Furniture 0875,Home,Furniture,AlpineWorks,66.97,145.74
+P0876,Outdoor 0876,Sports,Outdoor,VitaHome,137.7,281.84
+P0877,Clothing 0877,Fashion,Clothing,ActiveCore,18.14,25.82
+P0878,Storage 0878,Home,Storage,AlpineWorks,7.28,15.11
+P0879,Fitness 0879,Sports,Fitness,VitaHome,29.41,56.46
+P0880,Bags 0880,Fashion,Bags,NordicPeak,27.6,55.89
+P0881,Clothing 0881,Fashion,Clothing,UrbanNest,52.83,93.5
+P0882,Computing 0882,Electronics,Computing,NordicPeak,40.02,60.52
+P0883,Computing 0883,Electronics,Computing,NordicPeak,24.39,36.34
+P0884,Audio 0884,Electronics,Audio,Luma,15.01,29.01
+P0885,Storage 0885,Home,Storage,NovaTech,23.93,54.11
+P0886,Audio 0886,Electronics,Audio,EuroStyle,52.6,115.91
+P0887,Footwear 0887,Sports,Footwear,ActiveCore,24.52,36.87
+P0888,Computing 0888,Electronics,Computing,VitaHome,45.74,83.37
+P0889,Furniture 0889,Home,Furniture,NordicPeak,24.24,36.38
+P0890,Storage 0890,Home,Storage,Luma,13.93,32.83
+P0891,Outdoor 0891,Sports,Outdoor,VitaHome,47.25,109.76
+P0892,Smart Devices 0892,Electronics,Smart Devices,UrbanNest,70.37,136.73
+P0893,Accessories 0893,Fashion,Accessories,EuroStyle,30.8,63.99
+P0894,Footwear 0894,Sports,Footwear,VitaHome,16.11,26.25
+P0895,Footwear 0895,Sports,Footwear,NovaTech,20.33,34.13
+P0896,Decor 0896,Home,Decor,AlpineWorks,12.65,18.38
+P0897,Audio 0897,Electronics,Audio,NordicPeak,52.44,79.88
+P0898,Outdoor 0898,Sports,Outdoor,VitaHome,21.26,47.23
+P0899,Personal Care 0899,Beauty,Personal Care,EuroStyle,37.66,54.89
+P0900,Clothing 0900,Fashion,Clothing,ActiveCore,41.57,91.16
+P0901,Outdoor 0901,Sports,Outdoor,AlpineWorks,13.75,28.71
+P0902,Decor 0902,Home,Decor,ActiveCore,52.64,92.09
+P0903,Audio 0903,Electronics,Audio,VitaHome,63.39,139.78
+P0904,Clothing 0904,Fashion,Clothing,NovaTech,10.33,21.16
+P0905,Accessories 0905,Electronics,Accessories,Luma,49.12,88.62
+P0906,Storage 0906,Home,Storage,Luma,33.26,67.26
+P0907,Smart Devices 0907,Electronics,Smart Devices,Luma,62.51,88.8
+P0908,Bags 0908,Fashion,Bags,UrbanNest,36.79,78.5
+P0909,Smart Devices 0909,Electronics,Smart Devices,VitaHome,21.43,36.21
+P0910,Footwear 0910,Sports,Footwear,NovaTech,56.55,99.33
+P0911,Smart Devices 0911,Electronics,Smart Devices,UrbanNest,20.51,36.9
+P0912,Personal Care 0912,Beauty,Personal Care,UrbanNest,41.29,84.24
+P0913,Smart Devices 0913,Electronics,Smart Devices,UrbanNest,76.51,160.33
+P0914,Personal Care 0914,Beauty,Personal Care,NovaTech,11.98,23.43
+P0915,Accessories 0915,Electronics,Accessories,NordicPeak,19.12,31.99
+P0916,Team Sports 0916,Sports,Team Sports,Luma,17.88,30.09
+P0917,Outdoor 0917,Sports,Outdoor,AlpineWorks,44.59,68.42
+P0918,Accessories 0918,Fashion,Accessories,EuroStyle,47.72,93.38
+P0919,Furniture 0919,Home,Furniture,NordicPeak,28.84,45.57
+P0920,Team Sports 0920,Sports,Team Sports,NordicPeak,22.47,32.82
+P0921,Storage 0921,Home,Storage,EuroStyle,99.88,147.45
+P0922,Outdoor 0922,Sports,Outdoor,Luma,61.03,109.04
+P0923,Kitchen 0923,Home,Kitchen,EuroStyle,9.69,15.67
+P0924,Footwear 0924,Sports,Footwear,ActiveCore,36.27,54.18
+P0925,Clothing 0925,Fashion,Clothing,AlpineWorks,16.28,34.89
+P0926,Computing 0926,Electronics,Computing,VitaHome,46.8,66.18
+P0927,Kitchen 0927,Home,Kitchen,ActiveCore,54.31,90.41
+P0928,Audio 0928,Electronics,Audio,NordicPeak,48.96,97.01
+P0929,Accessories 0929,Electronics,Accessories,AlpineWorks,25.69,44.51
+P0930,Accessories 0930,Electronics,Accessories,NordicPeak,31.83,49.65
+P0931,Footwear 0931,Fashion,Footwear,VitaHome,32.76,49.16
+P0932,Makeup 0932,Beauty,Makeup,VitaHome,15.04,29.34
+P0933,Team Sports 0933,Sports,Team Sports,EuroStyle,23.65,45.24
+P0934,Furniture 0934,Home,Furniture,ActiveCore,13.83,20.78
+P0935,Bags 0935,Fashion,Bags,UrbanNest,34.65,51.57
+P0936,Outdoor 0936,Sports,Outdoor,AlpineWorks,20.88,33.34
+P0937,Accessories 0937,Electronics,Accessories,AlpineWorks,42.68,68.28
+P0938,Haircare 0938,Beauty,Haircare,UrbanNest,44.41,89.65
+P0939,Computing 0939,Electronics,Computing,VitaHome,10.62,15.03
+P0940,Makeup 0940,Beauty,Makeup,NordicPeak,38.73,57.37
+P0941,Decor 0941,Home,Decor,ActiveCore,116.68,171.2
+P0942,Clothing 0942,Fashion,Clothing,UrbanNest,20.56,42.95
+P0943,Haircare 0943,Beauty,Haircare,VitaHome,12.11,16.94
+P0944,Fitness 0944,Sports,Fitness,UrbanNest,16.22,29.29
+P0945,Makeup 0945,Beauty,Makeup,Luma,43.37,69.44
+P0946,Computing 0946,Electronics,Computing,NovaTech,58.39,84.67
+P0947,Smart Devices 0947,Electronics,Smart Devices,NordicPeak,15.47,34.35
+P0948,Footwear 0948,Sports,Footwear,UrbanNest,32.87,63.76
+P0949,Audio 0949,Electronics,Audio,VitaHome,60.49,114.04
+P0950,Footwear 0950,Sports,Footwear,VitaHome,35.93,55.09
+P0951,Bags 0951,Fashion,Bags,UrbanNest,41.87,82.31
+P0952,Bags 0952,Fashion,Bags,ActiveCore,38.73,72.1
+P0953,Outdoor 0953,Sports,Outdoor,NovaTech,32.45,60.78
+P0954,Furniture 0954,Home,Furniture,NovaTech,11.26,16.24
+P0955,Smart Devices 0955,Electronics,Smart Devices,Luma,27.23,64.68
+P0956,Fitness 0956,Sports,Fitness,Luma,3.7,8.0
+P0957,Clothing 0957,Fashion,Clothing,NovaTech,40.92,58.59
+P0958,Storage 0958,Home,Storage,Luma,16.07,26.66
+P0959,Outdoor 0959,Sports,Outdoor,Luma,20.93,46.79
+P0960,Computing 0960,Electronics,Computing,Luma,36.96,65.74
+P0961,Storage 0961,Home,Storage,EuroStyle,187.91,268.04
+P0962,Team Sports 0962,Sports,Team Sports,AlpineWorks,22.43,34.68
+P0963,Clothing 0963,Fashion,Clothing,Luma,22.22,44.73
+P0964,Accessories 0964,Electronics,Accessories,NovaTech,45.16,82.05
+P0965,Decor 0965,Home,Decor,NordicPeak,11.37,20.05
+P0966,Smart Devices 0966,Electronics,Smart Devices,EuroStyle,77.17,118.82
+P0967,Haircare 0967,Beauty,Haircare,AlpineWorks,42.17,64.53
+P0968,Outdoor 0968,Sports,Outdoor,EuroStyle,29.39,57.84
+P0969,Furniture 0969,Home,Furniture,NovaTech,70.32,110.25
+P0970,Accessories 0970,Electronics,Accessories,Luma,20.89,29.33
+P0971,Team Sports 0971,Sports,Team Sports,UrbanNest,14.71,33.3
+P0972,Fitness 0972,Sports,Fitness,UrbanNest,33.04,49.72
+P0973,Kitchen 0973,Home,Kitchen,VitaHome,15.09,25.24
+P0974,Kitchen 0974,Home,Kitchen,Luma,54.2,101.46
+P0975,Makeup 0975,Beauty,Makeup,EuroStyle,21.41,32.59
+P0976,Accessories 0976,Electronics,Accessories,AlpineWorks,32.03,61.86
+P0977,Haircare 0977,Beauty,Haircare,AlpineWorks,20.74,39.85
+P0978,Audio 0978,Electronics,Audio,NordicPeak,24.52,43.0
+P0979,Outdoor 0979,Sports,Outdoor,NovaTech,15.18,27.23
+P0980,Storage 0980,Home,Storage,UrbanNest,15.49,33.69
+P0981,Smart Devices 0981,Electronics,Smart Devices,AlpineWorks,14.97,35.01
+P0982,Kitchen 0982,Home,Kitchen,NordicPeak,25.15,41.25
+P0983,Fitness 0983,Sports,Fitness,Luma,18.8,36.12
+P0984,Furniture 0984,Home,Furniture,EuroStyle,17.04,29.53
+P0985,Accessories 0985,Electronics,Accessories,VitaHome,7.81,16.22
+P0986,Footwear 0986,Sports,Footwear,Luma,23.39,39.62
+P0987,Haircare 0987,Beauty,Haircare,NordicPeak,41.41,79.73
+P0988,Makeup 0988,Beauty,Makeup,UrbanNest,14.18,23.5
+P0989,Accessories 0989,Fashion,Accessories,VitaHome,86.99,139.61
+P0990,Computing 0990,Electronics,Computing,NovaTech,6.71,15.94
+P0991,Computing 0991,Electronics,Computing,VitaHome,9.8,17.83
+P0992,Accessories 0992,Electronics,Accessories,NordicPeak,9.45,14.82
+P0993,Clothing 0993,Fashion,Clothing,EuroStyle,75.78,118.05
+P0994,Smart Devices 0994,Electronics,Smart Devices,Luma,22.47,42.06
+P0995,Skincare 0995,Beauty,Skincare,NordicPeak,106.75,160.22
+P0996,Storage 0996,Home,Storage,EuroStyle,9.93,16.15
+P0997,Smart Devices 0997,Electronics,Smart Devices,NordicPeak,238.77,333.12
+P0998,Team Sports 0998,Sports,Team Sports,UrbanNest,16.53,28.81
+P0999,Accessories 0999,Electronics,Accessories,AlpineWorks,24.35,45.72
+P1000,Outdoor 1000,Sports,Outdoor,ActiveCore,33.02,47.45
